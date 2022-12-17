@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampes003_Sum\\Exampes003_Sum.csproj": {}
+    "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampels003_Sum\\Exampes003_Sum.csproj": {}
   },
   "projects": {
-    "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampes003_Sum\\Exampes003_Sum.csproj": {
+    "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampels003_Sum\\Exampes003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampes003_Sum\\Exampes003_Sum.csproj",
+        "projectUniqueName": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampels003_Sum\\Exampes003_Sum.csproj",
         "projectName": "Exampes003_Sum",
-        "projectPath": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampes003_Sum\\Exampes003_Sum.csproj",
+        "projectPath": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampels003_Sum\\Exampes003_Sum.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampes003_Sum\\obj\\",
+        "outputPath": "D:\\Программирование\\C#\\Лекции\\Examples\\C_Prgect\\Exampels003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
